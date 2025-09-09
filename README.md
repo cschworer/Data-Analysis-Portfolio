@@ -4,7 +4,6 @@ Hi, I’m Charlie! I have a professional background in Payroll, Accounting, and 
 
 Throughout my career, I’ve developed a detail-oriented mindset and a deep appreciation for working with data. My transition into data analytics has allowed me to build on this by learning tools like SQL, Python, R, and Tableau, and applying them to real-world datasets to extract insights and support data-driven decisions. 
 
-My resume in pdf
 
 This is a repository to showcase my skills, share projects, and track my progress in Data Analytics/Data Science related material. 
 
